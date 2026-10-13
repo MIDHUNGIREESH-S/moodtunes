@@ -1,0 +1,306 @@
+song_name,artist_name,language,mood
+Banana Pancakes,Jack Johnson,English,calm/focussed
+Bloom,The Paper Kites,English,calm/focussed
+Breathe Me,Sia,English,calm/focussed
+Cherry Wine (Live),Hozier,English,calm/focussed
+Clair de Lune,Claude Debussy,English,calm/focussed
+Experience,Ludovico Einaudi,English,calm/focussed
+Fast Car,Tracy Chapman,English,calm/focussed
+Holocene,Bon Iver,English,calm/focussed
+Intro,The xx,English,calm/focussed
+Mystery of Love,Sufjan Stevens,English,calm/focussed
+Nuvole Bianche,Ludovico Einaudi,English,calm/focussed
+Photograph,Ed Sheeran,English,calm/focussed
+River Flows in You,Yiruma,English,calm/focussed
+Skinny Love,Bon Iver,English,calm/focussed
+Slow Dancing in a Burning Room,John Mayer,English,calm/focussed
+Sunset Lover,Petit Biscuit,English,calm/focussed
+The Night We Met,Lord Huron,English,calm/focussed
+Time,Hans Zimmer,English,calm/focussed
+To Build a Home,The Cinematic Orchestra,English,calm/focussed
+Weightless,Marconi Union,English,calm/focussed
+Yellow,Coldplay,English,calm/focussed
+Aaoge Jab Tum,Rashid Khan,Hindi,calm/focussed
+Agar Tum Saath Ho,"Alka Yagnik, Arijit Singh",Hindi,calm/focussed
+Der Lagi Lekin,Shankar Mahadevan,Hindi,calm/focussed
+Hawayein,Arijit Singh,Hindi,calm/focussed
+Iktara,Kavita Seth,Hindi,calm/focussed
+Kabira (Encore),"Arijit Singh, Harshdeep Kaur",Hindi,calm/focussed
+Kadam,Prateek Kuhad,Hindi,calm/focussed
+Khairiyat,Arijit Singh,Hindi,calm/focussed
+Kun Faya Kun,"A. R. Rahman, Javed Ali, Mohit Chauhan",Hindi,calm/focussed
+Maahi Ve,"A.R. Rahman, Sadhana Sargam",Hindi,calm/focussed
+Phir Le Aya Dil (Reprise),Arijit Singh,Hindi,calm/focussed
+Qaafirana,"Arijit Singh, Nikhita Gandhi",Hindi,calm/focussed
+Raabta,Arijit Singh,Hindi,calm/focussed
+Safarnama,Lucky Ali,Hindi,calm/focussed
+Saibo,"Shreya Ghoshal, Tochi Raina",Hindi,calm/focussed
+Sham,"Nikhil D'Souza, Amit Trivedi",Hindi,calm/focussed
+Tere Bina,"A.R. Rahman, Chinmayi",Hindi,calm/focussed
+Tu Bin Bataye,"Madhushree, Naresh Iyer",Hindi,calm/focussed
+Tum Se Hi,Mohit Chauhan,Hindi,calm/focussed
+Yeh Fitoor Mera,Arijit Singh,Hindi,calm/focussed
+Aaradhike,Sooraj Santhosh,Malayalam,calm/focussed
+Akalukayano,Pradeep Kumar,Malayalam,calm/focussed
+Cherathukal,Sithara Krishnakumar,Malayalam,calm/focussed
+Entharo Mahanubhavulu,Agam,Malayalam,calm/focussed
+Etho Mazhayil,"Vijay Yesudas, Shweta Mohan",Malayalam,calm/focussed
+Kannil Kannil,Harisankar KS,Malayalam,calm/focussed
+Malare,Vijay Yesudas,Malayalam,calm/focussed
+Mizhiyil Ninnum,Shahabaz Aman,Malayalam,calm/focussed
+Neelakasham,Job Kurian,Malayalam,calm/focussed
+Neeyam Thantha,Hesham Abdul Wahab,Malayalam,calm/focussed
+Ormakal,Job Kurian,Malayalam,calm/focussed
+Oru Kari Mukilinu,Vijay Yesudas,Malayalam,calm/focussed
+Pavizha Mazha,K. S. Harisankar,Malayalam,calm/focussed
+Pinneyum Pinneyum,K.J. Yesudas,Malayalam,calm/focussed
+Poomuthole,Vijay Yesudas,Malayalam,calm/focussed
+Puthiyoru Pathayil,Siddharth Menon,Malayalam,calm/focussed
+Theerame,K.S. Chithra,Malayalam,calm/focussed
+Uyire,Sid Sriram,Malayalam,calm/focussed
+Uyiril Thodum,"Sooraj Santhosh, Anne Amie",Malayalam,calm/focussed
+Vathikkalu Vellaripravu,"Arjun Krishna, Nithya Mammen, Zia Ul Haq",Malayalam,calm/focussed
+Believer,Imagine Dragons,English,energetic/motivated
+Blinding Lights,The Weeknd,English,energetic/motivated
+Can't Hold Us,Macklemore & Ryan Lewis,English,energetic/motivated
+Can't Stop the Feeling!,Justin Timberlake,English,energetic/motivated
+Centuries,Fall Out Boy,English,energetic/motivated
+Counting Stars,OneRepublic,English,energetic/motivated
+Don't Stop Me Now,Queen,English,energetic/motivated
+Eye of the Tiger,Survivor,English,energetic/motivated
+Hall of Fame,The Script ft. will.i.am,English,energetic/motivated
+High Hopes,Panic! At The Disco,English,energetic/motivated
+Levitating,Dua Lipa,English,energetic/motivated
+Lose Yourself,Eminem,English,energetic/motivated
+Pump It,The Black Eyed Peas,English,energetic/motivated
+Shut Up and Dance,WALK THE MOON,English,energetic/motivated
+Stronger,Kanye West,English,energetic/motivated
+Thunder,Imagine Dragons,English,energetic/motivated
+Titanium,David Guetta feat. Sia,English,energetic/motivated
+Unstoppable,Sia,English,energetic/motivated
+Uptown Funk,Mark Ronson feat. Bruno Mars,English,energetic/motivated
+Wake Me Up,Avicii,English,energetic/motivated
+Aarambh Hai Prachand,Piyush Mishra,Hindi,energetic/motivated
+Apna Time Aayega,Ranveer Singh,Hindi,energetic/motivated
+Badtameez Dil,Benny Dayal,Hindi,energetic/motivated
+Bhaag Milkha Bhaag,Siddharth Mahadevan,Hindi,energetic/motivated
+Brothers Anthem,Vishal Dadlani,Hindi,energetic/motivated
+Chak De India,Sukhwinder Singh,Hindi,energetic/motivated
+Dangal,Daler Mehndi,Hindi,energetic/motivated
+Ghungroo,"Arijit Singh, Shilpa Rao",Hindi,energetic/motivated
+Jai Jai Shivshankar,"Vishal Dadlani, Benny Dayal",Hindi,energetic/motivated
+Jhoome Jo Pathaan,"Arijit Singh, Sukriti Kakar, Vishal-Sheykhar",Hindi,energetic/motivated
+Kala Chashma,"Amar Arshi, Badshah, Neha Kakkar",Hindi,energetic/motivated
+Kar Gayi Chull,"Badshah, Fazilpuria, Sukriti Kakar, Neha Kakkar",Hindi,energetic/motivated
+Kar Har Maidaan Fateh,Sukhwinder Singh,Hindi,energetic/motivated
+Lakshya,Shankar Mahadevan,Hindi,energetic/motivated
+Malhari,Vishal Dadlani,Hindi,energetic/motivated
+Muqabla,"Yash Narvekar, Parampara Tandon",Hindi,energetic/motivated
+Nashe Si Chadh Gayi,Arijit Singh,Hindi,energetic/motivated
+Sadda Haq,Mohit Chauhan,Hindi,energetic/motivated
+Sultan,Sukhwinder Singh,Hindi,energetic/motivated
+Zinda,Siddharth Mahadevan,Hindi,energetic/motivated
+Aadharanjali,Sushin Shyam,Malayalam,energetic/motivated
+Appangal Embadum,Anna Katharina Valayil,Malayalam,energetic/motivated
+Avesham Theme,Sushin Shyam,Malayalam,energetic/motivated
+Azhalinte Azhangalil,Nikhil Mathew,Malayalam,energetic/motivated
+Entammede Jimikki Kammal,"Vineeth Sreenivasan, Renjini Jose",Malayalam,energetic/motivated
+Illuminati,"Sushin Shyam, Dabzee",Malayalam,energetic/motivated
+Jaada,Sushin Shyam,Malayalam,energetic/motivated
+Jimikki Kammal,"Vineeth Sreenivasan, Renjini Jose",Malayalam,energetic/motivated
+Kadhakal Sollidava,Anirudh Ravichander,Malayalam,energetic/motivated
+Kalapakkaara,"Jakes Bejoy, Shreya Ghoshal, Benny Dayal",Malayalam,energetic/motivated
+Kalippu,Gopi Sundar,Malayalam,energetic/motivated
+Karinkaliyalle,CJA,Malayalam,energetic/motivated
+Kudukku,Vineeth Sreenivasan,Malayalam,energetic/motivated
+Manavaalan Thug,"Dabzee, SA",Malayalam,energetic/motivated
+Mini Maharani,Sushin Shyam,Malayalam,energetic/motivated
+Neela Sky,Rex Vijayan,Malayalam,energetic/motivated
+Pistah,Shabareesh Varma,Malayalam,energetic/motivated
+Raavan,Jakes Bejoy,Malayalam,energetic/motivated
+Scene Contra,Shabareesh Varma,Malayalam,energetic/motivated
+Thallumaala (Theme),Vishnu Vijay,Malayalam,energetic/motivated
+Thallumaala Paattu,"Vishnu Vijay, Mu.Ri",Malayalam,energetic/motivated
+Beautiful Day,U2,English,happy
+Best Day of My Life,American Authors,English,happy
+Can't Stop the Feeling!,Justin Timberlake,English,happy
+Count on Me,Bruno Mars,English,happy
+Don't Stop Me Now,Queen,English,happy
+Don't Worry Be Happy,Bobby McFerrin,English,happy
+Firework,Katy Perry,English,happy
+Good Life,OneRepublic,English,happy
+Good Time,"Owl City, Carly Rae Jepsen",English,happy
+Good as Hell,Lizzo,English,happy
+Happy,Pharrell Williams,English,happy
+"Hey, Soul Sister",Train,English,happy
+I Gotta Feeling,The Black Eyed Peas,English,happy
+I'm Yours,Jason Mraz,English,happy
+On Top of the World,Imagine Dragons,English,happy
+Sugar,Maroon 5,English,happy
+Sunday Morning,Maroon 5,English,happy
+Three Little Birds,Bob Marley & The Wailers,English,happy
+Uptown Funk,Mark Ronson ft. Bruno Mars,English,happy
+Walking on Sunshine,Katrina and the Waves,English,happy
+Aaj Ki Party,Mika Singh,Hindi,happy
+Abhi Toh Party Shuru Hui Hai,"Badshah, Aastha Gill",Hindi,happy
+Badtameez Dil,Benny Dayal,Hindi,happy
+Balam Pichkari,"Vishal Dadlani, Shalmali Kholgade",Hindi,happy
+Bumble Bee,A.R. Rahman,Hindi,happy
+Dil Dhadakne Do,Joi Barua,Hindi,happy
+Gallan Goodiyaan,"Yashita Sharma, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh",Hindi,happy
+Gallan Kardi,"Jazzy B, Jyotica Tangri",Hindi,happy
+Galti Se Mistake,Arijit Singh,Hindi,happy
+Ilahi,Arijit Singh,Hindi,happy
+Illahi,Arijit Singh,Hindi,happy
+Kala Chashma,Amar Arshi,Hindi,happy
+Kar Gayi Chull,"Badshah, Fazilpuria, Sukriti Kakar, Neha Kakkar",Hindi,happy
+Khaabon Ke Parindey,"Mohit Chauhan, Alyssa Mendonsa",Hindi,happy
+London Thumakda,"Labh Janjua, Sonu Kakkar, Neha Kakkar",Hindi,happy
+Love You Zindagi,"Jasleen Royal, Amit Trivedi",Hindi,happy
+Matargashti,Mohit Chauhan,Hindi,happy
+Mauja Hi Mauja,Mika Singh,Hindi,happy
+Offo,"Aditi Singh Sharma, Amitabh Bhattacharya",Hindi,happy
+Phir Se Ud Chala,Mohit Chauhan,Hindi,happy
+Senorita,Farhan Akhtar,Hindi,happy
+Sooraj Ki Baahon Mein,"Dominique Cerejo, Clinton Cerejo, Loy Mendonsa",Hindi,happy
+Appangal Embadum,Anna Katharina Valayil,Malayalam,happy
+Appangalembadum,Anna Katharina Valayil,Malayalam,happy
+Bum Bum Bole,Various,Malayalam,happy
+Chirakukal Njan,Job Kurian,Malayalam,happy
+Chundari Penne,Dulquer Salmaan,Malayalam,happy
+Darshana,"Hesham Abdul Wahab, Darshana Rajendran",Malayalam,happy
+Entammede Jimikki Kammal,"Vineeth Sreenivasan, Renjini Jose",Malayalam,happy
+Freak Penne,Satyajith,Malayalam,happy
+Jillam Jillala,Jassie Gift,Malayalam,happy
+Kaathil Vilippoo,Vineeth Sreenivasan,Malayalam,happy
+Kudukku,Vineeth Sreenivasan,Malayalam,happy
+Kutty Kahaani,Anirudh Ravichander,Malayalam,happy
+Lailakame,Haricharan,Malayalam,happy
+Lajjavathiye,Jassie Gift,Malayalam,happy
+Mel Mel Mel,Vijay Yesudas,Malayalam,happy
+Onakka Munthiri,Divya Vineeth,Malayalam,happy
+Parudeesa,Sushin Shyam,Malayalam,happy
+Pistah,Shabareesh Varma,Malayalam,happy
+Sundari Penne,Jassie Gift,Malayalam,happy
+Thallumaala Paattu,"Vishnu Vijay, Mu.Ri",Malayalam,happy
+Thumbi Vaa,S. Janaki,Malayalam,happy
+A Thousand Years,Christina Perri,English,romantic
+All of Me,John Legend,English,romantic
+Beyond,Leon Bridges,English,romantic
+Can't Help Falling in Love,Elvis Presley,English,romantic
+Die With A Smile,"Lady Gaga, Bruno Mars",English,romantic
+Endless Love,"Lionel Richie, Diana Ross",English,romantic
+Golden Hour,JVKE,English,romantic
+Just the Way You Are,Bruno Mars,English,romantic
+Kiss Me,Sixpence None the Richer,English,romantic
+Love Me Like You Do,Ellie Goulding,English,romantic
+Lover,Taylor Swift,English,romantic
+Make You Feel My Love,Adele,English,romantic
+My Heart Will Go On,Celine Dion,English,romantic
+Perfect,Ed Sheeran,English,romantic
+Say You Won't Let Go,James Arthur,English,romantic
+Shallow,"Lady Gaga, Bradley Cooper",English,romantic
+Thinking Out Loud,Ed Sheeran,English,romantic
+Until I Found You,Stephen Sanchez,English,romantic
+Wildest Dreams,Taylor Swift,English,romantic
+You Are The Reason,Calum Scott,English,romantic
+Apna Bana Le,Arijit Singh,Hindi,romantic
+Dil Diyan Gallan,Atif Aslam,Hindi,romantic
+Hawayein,Arijit Singh,Hindi,romantic
+Janam Janam,"Arijit Singh, Antara Mitra",Hindi,romantic
+Jeena Jeena,Atif Aslam,Hindi,romantic
+Kaun Tujhe,Palak Muchhal,Hindi,romantic
+Kesariya,Arijit Singh,Hindi,romantic
+O Saathi,Atif Aslam,Hindi,romantic
+Pehla Nasha,"Udit Narayan, Sadhana Sargam",Hindi,romantic
+Raabta,Arijit Singh,Hindi,romantic
+Shayad,Arijit Singh,Hindi,romantic
+Subhanallah,"Sreerama Chandra, Shilpa Rao",Hindi,romantic
+Tera Ban Jaunga,Akhil Sachdeva,Hindi,romantic
+Tera Hone Laga Hoon,"Atif Aslam, Alisha Chinai",Hindi,romantic
+Tere Hawaale,"Arijit Singh, Shilpa Rao",Hindi,romantic
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Hindi,romantic
+Tum Hi Ho,Arijit Singh,Hindi,romantic
+Tum Se Hi,Mohit Chauhan,Hindi,romantic
+Zaalima,"Arijit Singh, Harshdeep Kaur",Hindi,romantic
+Zehnaseeb,Chinmayi,Hindi,romantic
+Aaro Nenjil,"Gopi Sundar, Gowry Lekshmi",Malayalam,romantic
+Anuraga Vilochananayi,"Shreya Ghoshal, V. Sreekumar",Malayalam,romantic
+Anuragathin Velayil,Vineeth Sreenivasan,Malayalam,romantic
+Darshana,"Hesham Abdul Wahab, Darshana Rajendran",Malayalam,romantic
+Ennodu Nee Oru Vaakku,Hariharan,Malayalam,romantic
+Etho Sayana,Hariharan,Malayalam,romantic
+Kisa Pathiyil,Sachin Balu,Malayalam,romantic
+Malare,Vijay Yesudas,Malayalam,romantic
+Mazhaye Thoomazhaye,"Haricharan, Mridula Warrier",Malayalam,romantic
+Mizhiyil Ninnum,KS Harisankar,Malayalam,romantic
+Narumugaye,"Unni Menon, Bombay Jayashri",Malayalam,romantic
+Nilaave Nilaave,K.S. Harisankar,Malayalam,romantic
+Onakka Munthiri,Divya Vineeth,Malayalam,romantic
+Parayuvaan,"Sid Sriram, Neha S. Nair",Malayalam,romantic
+Pavizha Mazha,K. S. Harisankar,Malayalam,romantic
+Pookkal Pookkum,G.V. Prakash Kumar,Malayalam,romantic
+Thambiran,Sushin Shyam,Malayalam,romantic
+Thattathin Marayathu,Vineeth Sreenivasan,Malayalam,romantic
+Vaarthinkale,"Divya S. Menon, K. S. Harisankar",Malayalam,romantic
+Vennila Chandana Kinnam,"K.J. Yesudas, K.S. Chithra",Malayalam,romantic
+All I Want,Kodaline,English,sad
+Black,Pearl Jam,English,sad
+Creep,Radiohead,English,sad
+Drivers License,Olivia Rodrigo,English,sad
+Everybody Hurts,R.E.M.,English,sad
+Fix You,Coldplay,English,sad
+Glimpse of Us,Joji,English,sad
+Happier,Olivia Rodrigo,English,sad
+Heather,Conan Gray,English,sad
+Hurt,Johnny Cash,English,sad
+I Will Always Love You,Whitney Houston,English,sad
+Let Her Go,Passenger,English,sad
+Say Something,"A Great Big World, Christina Aguilera",English,sad
+Someone Like You,Adele,English,sad
+Sound of Silence,Simon & Garfunkel,English,sad
+Supermarket Flowers,Ed Sheeran,English,sad
+Tears in Heaven,Eric Clapton,English,sad
+The Night We Met,Lord Huron,English,sad
+The Scientist,Coldplay,English,sad
+When I Was Your Man,Bruno Mars,English,sad
+Abhi Mujh Mein Kahin,Sonu Nigam,Hindi,sad
+Agar Tum Saath Ho,"Alka Yagnik, Arijit Singh",Hindi,sad
+Bekhayali,Sachet Tandon,Hindi,sad
+Bhula Dena,Mustafa Zahid,Hindi,sad
+Channa Mereya,Arijit Singh,Hindi,sad
+Hamari Adhuri Kahani,Arijit Singh,Hindi,sad
+Jiyein Kyun,Papon,Hindi,sad
+Kabira,Tochi Rain,Hindi,sad
+Kal Ho Naa Ho,Sonu Nigam,Hindi,sad
+Laal Ishq,Arijit Singh,Hindi,sad
+Luka Chuppi,Lata Mangeshkar,Hindi,sad
+Main Jahaan Rahoon,Rahat Fateh Ali Khan,Hindi,sad
+Phir Bhi Tumko Chaahunga,Arijit Singh,Hindi,sad
+Sach Keh Raha Hai Deewana,KK,Hindi,sad
+Sun Raha Hai,Ankit Tiwari,Hindi,sad
+Tadap Tadap,KK,Hindi,sad
+Teri Mitti,B Praak,Hindi,sad
+Tujhe Bhula Diya,"Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak",Hindi,sad
+Tune Jo Na Kaha,Mohit Chauhan,Hindi,sad
+Yeh Dooriyan,Mohit Chauhan,Hindi,sad
+Aaromale,Alphons Joseph,Malayalam,sad
+Aayiram Kannumai,Yesudas,Malayalam,sad
+Akaleyo Nee,Shaan Rahman,Malayalam,sad
+Alare,Ayraan,Malayalam,sad
+Azhalinte Eazhangal,Nikhil Mathew,Malayalam,sad
+Cherathukal,Sithara Krishnakumar,Malayalam,sad
+Ente Ellam Ellam Alle,"K. J. Yesudas, K. S. Chithra",Malayalam,sad
+Etho Varmukilin,K. S. Chithra,Malayalam,sad
+Innale Ente Nenjile,K.J. Yesudas,Malayalam,sad
+Kaathirunnu,Shreya Ghoshal,Malayalam,sad
+Kannana Kanne,Sid Sriram,Malayalam,sad
+Kanneer Poovinte,K.J. Yesudas,Malayalam,sad
+Melle Melle,K.S. Chithra,Malayalam,sad
+Mizhiyil Ninnum,Shahabaz Aman,Malayalam,sad
+Nilavinte Neelabhasma,K.J. Yesudas,Malayalam,sad
+Oru Nokku Kaanuvan,Karthik,Malayalam,sad
+Oru Rathri Koodi,Yesudas,Malayalam,sad
+Parayathe Ariyathe,Yesudas,Malayalam,sad
+Uyire,Sid Sriram,Malayalam,sad
+Vathikkalu Vellaripravu,"Arjun Krishna, Nithya Mammen, Zia Ul Haq",Malayalam,sad
